@@ -1,0 +1,411 @@
+TWebBrowserTutorial
+v7
+r0
+t333888378.589441
+cCheck dependencies
+cProcessInfoPlistFile "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist" WebBrowserTutorial-Info.plist
+cCompileXIB "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/MainWindow.xib"
+cProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-dtmtbqywelxuyngjduinkrztrhqf/WebBrowserTutorial_Prefix.pch.gch WebBrowserTutorial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserViewController.o "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial" normal i386
+cGenerateDSYMFile "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM" "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial"
+cTouch "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D9EE41F0000000000000110
+t1302258719
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.h
+c000000004DD62E9B0000000000000215
+t1305882267
+s533
+i<UIKit/UIKit.h>
+i"WebBrowserViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m
+c000000004DD62E7E0000000000000A96
+t1305882238
+s2710
+i"WebBrowserTutorialAppDelegate.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserViewController.h
+c000000004DD630D1000000000000010D
+t1305882833
+s269
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserViewController.m
+c000000004E3683F70000000000000451
+t1312195575
+s1105
+i"WebBrowserViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/MainWindow.xib
+c000000004DD62B68000000000000213F
+t1305881448
+s8511
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/WebBrowserTutorial_Prefix.pch
+c000000004DD62B6800000000000000CD
+t1305881448
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app
+t1312195578
+s204
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM
+t1312195578
+s102
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist
+t1305882141
+s641
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/MainWindow.nib
+t1305882145
+s995
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/PkgInfo
+t1305882141
+s8
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+t1312195578
+s18016
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorial.LinkFileList
+c000000004DEC5DC0000000000000021C
+t1307336128
+s540
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o
+t1312195514
+s52312
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserViewController.o
+t1312195578
+s42320
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o
+t1312195514
+s6344
+
+N/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/main.m
+c000000004DD62B68000000000000016F
+t1305881448
+s367
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.h
+c000000004DD62E9B0000000000000215
+t1305882267
+s533
+i<UIKit/UIKit.h>
+i"WebBrowserViewController.h"
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m
+c000000004DD62E7E0000000000000A96
+t1305882238
+s2710
+i"WebBrowserTutorialAppDelegate.h"
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserViewController.h
+c000000004DD630D1000000000000010D
+t1305882833
+s269
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserViewController.m
+c000000004DD637900000000000000451
+t1305884560
+s1105
+i"WebBrowserViewController.h"
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/MainWindow.xib
+c000000004DD62B68000000000000213F
+t1305881448
+s8511
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/WebBrowserTutorial_Prefix.pch
+c000000004DD62B6800000000000000CD
+t1305881448
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app
+t1305888728
+s204
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM
+t1305888728
+s102
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist
+t1305882141
+s641
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/MainWindow.nib
+t1305882145
+s995
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/PkgInfo
+t1305882141
+s8
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+t1305888728
+s17944
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorial.LinkFileList
+c000000004DD62E1D00000000000001F8
+t1305882141
+s504
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o
+t1305882868
+s52288
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserViewController.o
+t1305888727
+s42296
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o
+t1305882150
+s6320
+
+N/Users/macbook/Documents/Tmp/WebBrowserTutorial/main.m
+c000000004DD62B68000000000000016F
+t1305881448
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-dtmtbqywelxuyngjduinkrztrhqf/WebBrowserTutorial_Prefix.pch.gch
+t1312195513
+s15453392
+
+N/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-ggeuviymlvqsxfedihjcwcmtioce/WebBrowserTutorial_Prefix.pch.gch
+t1305882149
+s15453392
+
+NWebBrowserTutorial-Info.plist
+c000000004DD62B68000000000000038D
+t1305881448
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333888378#333888378#0(0"0(0#1#0"8615227232#0"0#
+
+CCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888314.841025
+e333888314.991525
+r1
+xCompileC
+xbuild/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o
+x/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m333888314#333888314#0(0"0(0#0#99"/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m8639344864#2445"    cd "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-dtmtbqywelxuyngjduinkrztrhqf/WebBrowserTutorial_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m" -o "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o"0#
+
+CCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o /Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327575668.716108
+e327575668.941706
+r1
+xCompileC
+xbuild/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o
+x/Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m327575668#327575668#0(0"0(0#0#87"/Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m8615168032#2291"    cd /Users/macbook/Documents/Tmp/WebBrowserTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-ggeuviymlvqsxfedihjcwcmtioce/WebBrowserTutorial_Prefix.pch -c /Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m -o /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o0#
+
+CCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserViewController.o "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888378.194272
+e333888378.399517
+r1
+xCompileC
+xbuild/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserViewController.o
+x/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserViewController.m333888378#333888378#0(0"0(0#0#94"/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserViewController.m8633310912#2435"    cd "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-dtmtbqywelxuyngjduinkrztrhqf/WebBrowserTutorial_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/Classes/WebBrowserViewController.m" -o "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserViewController.o"0#
+
+CCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserViewController.o /Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327581527.288809
+e327581527.955959
+r1
+xCompileC
+xbuild/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserViewController.o
+x/Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserViewController.m327581527#327581527#0(0"0(0#0#82"/Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserViewController.m8600894496#2281"    cd /Users/macbook/Documents/Tmp/WebBrowserTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-ggeuviymlvqsxfedihjcwcmtioce/WebBrowserTutorial_Prefix.pch -c /Users/macbook/Documents/Tmp/WebBrowserTutorial/Classes/WebBrowserViewController.m -o /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserViewController.o0#
+
+CCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888313.927962
+e333888314.840840
+r1
+xCompileC
+xbuild/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o
+x/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/main.m333888313#333888314#0(0"0(0#0#66"/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/main.m8633445152#2387"    cd "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-dtmtbqywelxuyngjduinkrztrhqf/WebBrowserTutorial_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/main.m" -o "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o /Users/macbook/Documents/Tmp/WebBrowserTutorial/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327574950.507373
+e327574950.653112
+r1
+xCompileC
+xbuild/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o
+x/Users/macbook/Documents/Tmp/WebBrowserTutorial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/macbook/Documents/Tmp/WebBrowserTutorial/main.m327574950#327574950#0(0"0(0#0#54"/Users/macbook/Documents/Tmp/WebBrowserTutorial/main.m8614748704#2233"    cd /Users/macbook/Documents/Tmp/WebBrowserTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-ggeuviymlvqsxfedihjcwcmtioce/WebBrowserTutorial_Prefix.pch -c /Users/macbook/Documents/Tmp/WebBrowserTutorial/main.m -o /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/MainWindow.xib"
+r0
+
+CCompileXIB /Users/macbook/Documents/Tmp/WebBrowserTutorial/MainWindow.xib
+s327574941.567253
+e327574945.755256
+r1
+xCompileXIB
+x/Users/macbook/Documents/Tmp/WebBrowserTutorial/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327574941#327574945#0(0"0(0#0#62"/Users/macbook/Documents/Tmp/WebBrowserTutorial/MainWindow.xib8612425280#608"    cd /Users/macbook/Documents/Tmp/WebBrowserTutorial    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/MainWindow.nib /Users/macbook/Documents/Tmp/WebBrowserTutorial/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM" "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial"
+s333888378.460011
+e333888378.585678
+r1
+xGenerateDSYMFile
+x/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM
+x/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial333888378#333888378#0(0"0(0#0#129"/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial8645833728#485"    cd "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial" -o "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM"0#
+
+CGenerateDSYMFile /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+s327581528.035043
+e327581528.137121
+r1
+xGenerateDSYMFile
+x/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM
+x/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial327581528#327581528#0(0"0(0#0#117"/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial8614776352#443"    cd /Users/macbook/Documents/Tmp/WebBrowserTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial -o /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM0#
+
+CLd "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial" normal i386
+s333888378.399627
+e333888378.459896
+r1
+xLd
+x/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+xnormal
+xi386
+lSLF07#2@134"Link /Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial333888378#333888378#0(0"0(0#0#0"8649984992#1070"    cd "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator" "-F/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator" -filelist "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorial.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial"0#
+
+CLd /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial normal i386
+s327581527.956114
+e327581528.034866
+r1
+xLd
+x/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+xnormal
+xi386
+lSLF07#2@122"Link /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial327581527#327581528#0(0"0(0#0#0"8616728768#1000"    cd /Users/macbook/Documents/Tmp/WebBrowserTutorial    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator -F/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator -filelist /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorial.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial0#
+
+CProcessInfoPlistFile "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist" WebBrowserTutorial-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist WebBrowserTutorial-Info.plist
+s327574941.458998
+e327574941.567097
+r1
+xProcessInfoPlistFile
+x/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist
+xWebBrowserTutorial-Info.plist
+lSLF07#2@37"Process WebBrowserTutorial-Info.plist327574941#327574941#0(0"0(0#0#77"/Users/macbook/Documents/Tmp/WebBrowserTutorial/WebBrowserTutorial-Info.plist8614205152#539"    cd /Users/macbook/Documents/Tmp/WebBrowserTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WebBrowserTutorial-Info.plist -genpkginfo /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist0#
+
+CProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-dtmtbqywelxuyngjduinkrztrhqf/WebBrowserTutorial_Prefix.pch.gch WebBrowserTutorial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s333888308.506974
+e333888313.927773
+r1
+xProcessPCH
+x/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-dtmtbqywelxuyngjduinkrztrhqf/WebBrowserTutorial_Prefix.pch.gch
+xWebBrowserTutorial_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile WebBrowserTutorial_Prefix.pch333888308#333888313#0(0"0(0#0#89"/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/WebBrowserTutorial_Prefix.pch8649048160#2245"    cd "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources" -c "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/WebBrowserTutorial_Prefix.pch" -o /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-dtmtbqywelxuyngjduinkrztrhqf/WebBrowserTutorial_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-ggeuviymlvqsxfedihjcwcmtioce/WebBrowserTutorial_Prefix.pch.gch WebBrowserTutorial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327574945.755578
+e327574950.507143
+r1
+xProcessPCH
+x/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-ggeuviymlvqsxfedihjcwcmtioce/WebBrowserTutorial_Prefix.pch.gch
+xWebBrowserTutorial_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile WebBrowserTutorial_Prefix.pch327574945#327574950#0(0"0(0#0#77"/Users/macbook/Documents/Tmp/WebBrowserTutorial/WebBrowserTutorial_Prefix.pch8614491904#2105"    cd /Users/macbook/Documents/Tmp/WebBrowserTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources -c /Users/macbook/Documents/Tmp/WebBrowserTutorial/WebBrowserTutorial_Prefix.pch -o /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-ggeuviymlvqsxfedihjcwcmtioce/WebBrowserTutorial_Prefix.pch.gch0#
+
+CTouch "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app"
+s333888378.585777
+e333888378.589403
+r1
+xTouch
+x/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app
+lSLF07#2@116"Touch /Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app333888378#333888378#0(0"0(0#0#0"8622314272#335"    cd "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/macbook/Documents/Tmp/Native Apps/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app"0#
+
+CTouch /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app
+s327581528.137266
+e327581528.142186
+r1
+xTouch
+x/Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app
+lSLF07#2@104"Touch /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app327581528#327581528#0(0"0(0#0#0"8612874656#307"    cd /Users/macbook/Documents/Tmp/WebBrowserTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/macbook/Documents/Tmp/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app0#
+
